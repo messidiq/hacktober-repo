@@ -1,2 +1,1 @@
-Versi 1
-Pull ke 3
+console.log('halo')

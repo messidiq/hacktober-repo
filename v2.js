@@ -1,1 +1,1 @@
-New pull
+console.log('baru')
